@@ -3,7 +3,8 @@
 게임 콘텐츠 도감 갤러리 — **React + TypeScript** 로 만든 프론트엔드 포트폴리오 데모.
 무기 · 방어구 · 장신구 · 소비 · 몬스터 · 펫을 카드 그리드로 보여주고, 실시간 검색 · 다중 필터 · 정렬 · 즐겨찾기를 제공한다.
 
-> 라이브 데모: _(Vercel 배포 후 링크 추가)_
+> 🔗 **라이브 데모: https://maple-codex.vercel.app**
+> 💻 코드: https://github.com/wodyd0103-byte/maple-codex
 
 ## ✨ 주요 기능
 
