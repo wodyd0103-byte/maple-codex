@@ -102,7 +102,9 @@ function Codex() {
             </p>
           </div>
           <a
-            href="#repo"
+            href="https://github.com/wodyd0103-byte/maple-codex"
+            target="_blank"
+            rel="noreferrer"
             className="rounded-xl border border-slate-700 bg-slate-900/60 px-4 py-2 text-sm text-slate-300 transition hover:border-slate-500 hover:text-slate-100"
           >
             ⌥ GitHub
