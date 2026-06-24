@@ -109,7 +109,7 @@ export const CODEX: CodexEntry[] = [
   // ── 몬스터 ────────────────────────────────────────────
   {
     id: 16, name: "주황버섯", category: "몬스터", rarity: "일반", level: 8,
-    icon: GMS("mob", 100100),
+    icon: GMS("mob", 100004),
     desc: "초보 사냥터의 명물. 둥근 몸에 표정이 귀엽지만 은근히 단단하다.",
     stats: [{ label: "HP", value: "80" }, { label: "경험치", value: "16" }],
   },
