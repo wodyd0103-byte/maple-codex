@@ -27,7 +27,7 @@ export const CODEX: CodexEntry[] = [
   },
   {
     id: 3, name: "도로스 스피어", category: "무기", rarity: "에픽", level: 120,
-    icon: GMS("item", 1432064),
+    icon: GMS("item", 1432066),
     desc: "고대 전사들이 사용했다는 창. 긴 사거리와 강한 관통력을 자랑한다.",
     stats: [{ label: "공격력", value: "+148" }, { label: "STR", value: "+25" }],
   },
@@ -58,7 +58,7 @@ export const CODEX: CodexEntry[] = [
   },
   {
     id: 8, name: "드래곤테일", category: "방어구", rarity: "유니크", level: 110,
-    icon: GMS("item", 1042200),
+    icon: GMS("item", 1052315),
     desc: "용의 비늘을 엮어 만든 상의. 화염 저항이 매우 높다.",
     stats: [{ label: "방어력", value: "+260" }, { label: "HP", value: "+600" }],
   },
@@ -90,7 +90,7 @@ export const CODEX: CodexEntry[] = [
   },
   {
     id: 13, name: "파란 포션", category: "소비", rarity: "일반", level: 10,
-    icon: GMS("item", 2000001),
+    icon: GMS("item", 2000003),
     desc: "MP를 소량 회복하는 기본 물약. 마법사에게 특히 유용하다.",
     stats: [{ label: "MP 회복", value: "+100" }],
   },
@@ -139,15 +139,15 @@ export const CODEX: CodexEntry[] = [
   },
   // ── 펫 ────────────────────────────────────────────────
   {
-    id: 21, name: "미니 주황버섯", category: "펫", rarity: "레어", level: 1,
+    id: 21, name: "아기 드래곤", category: "펫", rarity: "레어", level: 1,
     icon: GMS("item", 5000029),
-    desc: "주황버섯을 꼭 닮은 작은 펫. 아이템을 자동으로 주워 준다.",
+    desc: "알에서 갓 깨어난 작은 드래곤 펫. 종종거리며 따라다니고 아이템을 자동으로 주워 준다.",
     stats: [{ label: "효과", value: "자동 줍기" }],
   },
   {
-    id: 22, name: "핑크빈", category: "펫", rarity: "유니크", level: 1,
+    id: 22, name: "펭귄", category: "펫", rarity: "유니크", level: 1,
     icon: GMS("item", 5000080),
-    desc: "전설의 보스를 본뜬 귀여운 펫. 함께 다니면 시선을 독차지한다.",
+    desc: "뒤뚱뒤뚱 걷는 귀여운 펭귄 펫. 함께 다니면 시선을 독차지한다.",
     stats: [{ label: "효과", value: "자동 줍기 · 버프 유지" }],
   },
 ];
